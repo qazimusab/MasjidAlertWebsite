@@ -1,7 +1,6 @@
 'use strict';
 
 var gulp = require('gulp');
-var serve = require('gulp-serve');
 var wrench = require('wrench');
 
 /**
