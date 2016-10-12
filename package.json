@@ -44,7 +44,7 @@
     "wrench": "~1.5.8"
   },
   "scripts": {
-    "postinstall": "bower install"
+    "postinstall": "bower install && npm install gulp"
   },
   "dependencies": {
     "bower": "^1.5.2"
