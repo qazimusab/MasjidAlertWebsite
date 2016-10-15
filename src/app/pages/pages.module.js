@@ -8,6 +8,8 @@
   angular.module('BlurAdmin.pages', [
     'ui.router',
 
+    'BlurAdmin.pages.salatTimes',
+    'BlurAdmin.pages.notify',
     'BlurAdmin.pages.dashboard',
     'BlurAdmin.pages.ui',
     'BlurAdmin.pages.components',
